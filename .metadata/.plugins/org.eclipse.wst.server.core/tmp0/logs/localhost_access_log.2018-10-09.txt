@@ -1,0 +1,5 @@
+127.0.0.1 - - [09/Oct/2018:13:56:42 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [09/Oct/2018:13:56:44 +0530] "GET /DemoServ/ HTTP/1.1" 200 244
+0:0:0:0:0:0:0:1 - - [09/Oct/2018:13:57:02 +0530] "GET /DemoServ/MySearcher?name=java HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/Oct/2018:13:57:20 +0530] "GET /DemoServ/MySearcher?name=spiderman HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/Oct/2018:13:57:56 +0530] "GET /DemoServ/MySearcher HTTP/1.1" 302 -
